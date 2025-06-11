@@ -1,0 +1,105 @@
+{
+  "albums": [
+    
+    {
+      "folder": "Love",
+      "title": "Lovy-Dovy",
+      "description": "LISTEN and feel Loveee in Air..",
+      "cover": "cover.jpg",
+      "songs": [
+        "Rabba Mein Toh Mar Gaya Oye.mp3",
+        "Sajde Kiye Hain Lakhon.mp3",
+        "Tose Naina.mp3",
+        "Uska Hi Banaa.mp3"
+      ]
+    },
+    {
+      "folder": "Romantic",
+      "title": "Romantic",
+      "description": "LISTEN and feel romance in Air..",
+      "cover": "cover.jpg",
+      "songs": [
+        "Pal Pal Har Pal.mp3",
+        "Raabta.mp3",
+        "Atif Aslam - kaun hoon main - slowed and reverb - axonnaru - Copy.mp3",
+        "mein_agar_kahoon_keys - Copy.mp3"
+      ]
+    },
+    {
+      "folder": "English",
+      "title": "Hip-Hop",
+      "description": "JUstien Bieber....",
+      "cover": "cover.jpg",
+      "songs": [
+        "bring-me-back-283196.mp3",
+        "english-poem-108554.mp3",
+        "song-english-edm-296526.mp3"
+      ]
+    },
+    {
+      "folder": "Mashup",
+      "title": "Mix-Match",
+      "description": "Mashup of high and low pitches...",
+      "cover": "cover.jpg",
+      "songs": [
+        "1 BEAT Mashup - 90's Bollywood - SINGOFF Singh's Unplugged (Ft. Gurashish Singh, Kuhu)Cover.mp3",
+        "1 BEAT Mashup Part 2 2000's Bollywood Singh's Unplugged (Ft. Gurashish Singh, Kuhu)Cover.mp3"
+      ]
+    },
+    {
+      "folder": "Memories",
+      "title": "Memooriess",
+      "description": "Make some mmemories....",
+      "cover": "cover.jpg",
+      "songs": [
+        "Deewana Kar Raha Hai- slowed and reverb - axonnaru - Copy.mp3",
+        "O Bekhabar.mp3",
+        "Pad Gaye Tere Pyaar Mein.mp3",
+        "Maahi-slowedandreverb-Raaz-axonnaru - Copy.mp3"
+      ]
+    },
+    {
+      "folder": "Happy hits",
+      "title": "Happy-Hits!",
+      "description": "Hits your feelings and make you feel romantic.",
+      "cover": "cover.jpg",
+      "songs": [
+        "128-Hawa Hawai - Mr. India 128 Kbps.mp3",
+        "mannd.mp3",
+        "You Are My Love.mp3",
+        "Bounce World - Copy.mp3"
+      ]
+    },
+    {
+      "folder": "slow",
+      "title": "slowly-slowly",
+      "description": "slow your thoughts and feel it...",
+      "cover": "cover.jpg",
+      "songs": [
+        "mein_agar_kahoon_keys.mp3",
+        "Tumse Hi Tumse.mp3",
+        "yeh tu ne kya kiya 6 - Copy.mp3"
+      ]
+    },
+    {
+      "folder": "sleep",
+      "title": "Sleepy-sleepy",
+      "description": "listen and take long sleep....",
+      "cover": "cover.jpg",
+      "songs": [
+        "Ghostrifter-Official-Soon-Well-Fly(chosic.com).mp3",
+        "Le-Calme-Ambient-Relaxing-Music-chosic.com_.mp3"
+      ]
+    },
+    {
+      "folder": "Angry",
+      "title": "Angry-mood",
+      "description": "listen this and calm your self.....",
+      "cover": "cover.jpg",
+      "songs": [
+        "aggressor-278156.mp3",
+        "must-be-angry-259502.mp3"
+      ]
+    }
+  ]
+}
